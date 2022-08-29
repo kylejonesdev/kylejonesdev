@@ -1,7 +1,7 @@
 <img src="./gitBanner.png" width="100%">
 
 <p style="padding: 20px 0px 0px 0px">
-Hi, I'm Kyle. I'm a detail-oriented problem-solver who enjoys learning new tools and harnessing them to create awesome products. I've been working with web technologies for years, building everything from single page websites to full-stack web applications. I love what I do, and I bring that passion to every project.</p>
+Hi, I'm Kyle. I'm a detail-oriented problem-solver with a positive attitude and a good sense of humor. I've been working with web technologies for years, building everything from single page websites to full-stack web applications. I excel at leading technical teams to meet tight deadlines, and I think hard work, flexibility, and clear communication are the keys to project success. I am a software engineer because it gives me the power to turn exciting new ideas into awesome products. I love what I do, and I bring that passion to every project.</p>
 
 <p style="padding: 20px 0px 0px 0px">
 <strong>Got a project?<a href=https://www.kylejones.dev/#contact> Let's talk!</a></strong>
